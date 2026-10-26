@@ -11,7 +11,7 @@
   <p align="center">
     <a href="https://suleimancomputationalstructuralbiology.github.io/"><img src="https://img.shields.io/badge/Live_Portal-suleimancomputationalstructuralbiology.github.io-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/></a>
     <a href="https://github.com/SuleimanComputationalStructuralBiology"><img src="https://img.shields.io/badge/Organization-SuleimanComputationalStructuralBiology-7209b7?style=for-the-badge&logo=github&logoColor=white" alt="Organization"/></a>
-    <a href="mailto:suleyman.hacizade1@gmail.com"><img src="https://img.shields.io/badge/Contact-IMBB_Azerbaijan-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+    <a href="mailto:suleyman.hacizade1@gmail.com"><img src="https://img.shields.io/badge/Contact-IMB_Azerbaijan-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
   </p>
 
   <p align="center">
@@ -92,7 +92,7 @@ Visit our live web platform at **[suleimancomputationalstructuralbiology.github.
 ## 👨‍🔬 Leadership & Affiliation
 
 * **Lead Researcher:** Suleiman Hajizadeh
-* **Affiliation:** Institute of Molecular Biology and Biotechnologies (IMBB), Azerbaijan
+* **Affiliation:** Institute of Molecular Biology (IMB), Azerbaijan
 * **Specialization:** Structural Bioinformatics, Deep-Learning Protein Modeling, Kinase Biophysics, Network Biology
 * **Email:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)
 * **Personal GitHub:** [@SuleimanHajizadeh](https://github.com/SuleimanHajizadeh)
