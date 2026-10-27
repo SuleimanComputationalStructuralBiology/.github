@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/AF2--Multimer-Heterodimer_Complexes-6366f1?style=flat-square" alt="AF2-Multimer"/>
     <img src="https://img.shields.io/badge/Virtual_Screening-AutoDock_Vina_v1.2.5-b45309?style=flat-square" alt="AutoDock Vina"/>
     <img src="https://img.shields.io/badge/Interactive_3D-3Dmol.js-06d6a0?style=flat-square" alt="3Dmol.js"/>
-    <img src="https://img.shields.io/badge/Knowledge_Base-41_Interlinked_Notes-8b5cf6?style=flat-square" alt="Knowledge Base"/>
+    <img src="https://img.shields.io/badge/Knowledge_Base-48_Interlinked_Notes-8b5cf6?style=flat-square" alt="Knowledge Base"/>
     <img src="https://img.shields.io/badge/Curriculum-9_Master_Modules-ec4899?style=flat-square" alt="Curriculum"/>
   </p>
 </div>
@@ -48,7 +48,7 @@ SuleimanComputationalStructuralBiology
 │   ├── Complete PAE distance matrices & per-residue pLDDT profiles
 │   ├── AutoDock Vina receptor/ligand PDBQT preparation pipelines
 │   ├── Master's computational structural biology curriculum & tutorial data
-│   └── 41-note persistent LLM research wiki & manuscript drafts
+│   └── 48-note persistent LLM research wiki & manuscript drafts
 │
 └── 🌐 SuleimanComputationalStructuralBiology.github.io (Public Interactive Portal)
     ├── 🌟 Live URL: https://suleimancomputationalstructuralbiology.github.io/
@@ -84,7 +84,7 @@ Visit our live web platform at **[suleimancomputationalstructuralbiology.github.
 
 * 🧬 **3D Molecular Explorer:** Rotate, spin, zoom, and recolor AKT1 and STN7–STN8 models (Cartoon, Surface, Sphere, Stick) with AlphaFold pLDDT confidence color-mapping.
 * 📊 **Linked Structural Charts:** Click any residue on the pLDDT confidence plot or PAE matrix to instantly focus and highlight that residue in the 3D viewer.
-* 📚 **41-Note Scientific Wiki:** Search and read interconnected notes spanning entities (AKT1, STN7, STN8, LHCII, PTEN, mTORC2), concepts (Cryo-EM, MSMs, Docking, LDDT), and syntheses.
+* 📚 **48-Note Scientific Wiki:** Search and read interconnected notes spanning entities (AKT1, STN7, STN8, LHCII, PTEN, mTORC2), concepts (Cryo-EM, MSMs, Docking, LDDT), and syntheses.
 * 🎓 **Structural Bioinformatics Curriculum:** 9 master modules covering VMD scripting, MD simulations (GROMACS), enhanced sampling (Metadynamics/PLUMED), QM/MM (CP2K), and de novo protein design (RFdiffusion/ProteinMPNN).
 
 ---
