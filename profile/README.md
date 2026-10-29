@@ -11,7 +11,8 @@
   <p align="center">
     <a href="https://suleimancomputationalstructuralbiology.github.io/"><img src="https://img.shields.io/badge/Live_Portal-suleimancomputationalstructuralbiology.github.io-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/></a>
     <a href="https://github.com/SuleimanComputationalStructuralBiology"><img src="https://img.shields.io/badge/Organization-SuleimanComputationalStructuralBiology-7209b7?style=for-the-badge&logo=github&logoColor=white" alt="Organization"/></a>
-    <a href="mailto:suleyman.hacizade1@gmail.com"><img src="https://img.shields.io/badge/Contact-IMB_Azerbaijan-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+    <a href="mailto:suleyman.hacizade1@gmail.com?subject=Private%20Data%20%26%20Repository%20Access%20Request%20-%20SuleimanComputationalStructuralBiology"><img src="https://img.shields.io/badge/Private_Data_Access-Request_via_Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Request Access"/></a>
+    <a href="mailto:suleyman.hacizade1@gmail.com"><img src="https://img.shields.io/badge/Contact-suleyman.hacizade1%40gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
   </p>
 
   <p align="center">
@@ -33,22 +34,30 @@ The **Suleiman Computational Structural Biology** organization serves as a centr
 Our core methodology traces a rigorous multi-scale path:
 $$\text{Transcriptomics / WGCNA Hubs} \longrightarrow \text{Deep-Learning 3D Modeling (AlphaFold2)} \longrightarrow \text{Biophysical & Geometric Analytics} \longrightarrow \text{Allosteric Virtual Screening}$$
 
+> [!IMPORTANT]
+> ### 🔒 Private Data & Repository Access Notice
+> All raw datasets, full multi-sequence alignments (MSAs), complete AlphaFold2/ColabFold scoring matrices, molecular docking trajectories, manuscript drafts, and backend source pipelines housed in **`SuleimanComputationalStructuralBiology`** are **strictly private**.
+>
+> **How to Request Access:** If you are a researcher, academic reviewer, or collaborator and would like to request access to the private core repository or raw research data, please contact:
+> 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanComputationalStructuralBiology%20Private%20Data)**
+
 ---
 
-## 🏛️ Organization Architecture
+## 🏛️ Organization Architecture & Data Governance
 
-To maintain the highest scientific rigor and protect sensitive work, our organization is structured into two dedicated repositories:
+To maintain the highest scientific rigor and protect sensitive pre-publication data, our organization is structured into two dedicated repositories:
 
 ```
 SuleimanComputationalStructuralBiology
 │
-├── 🔒 SuleimanComputationalStructuralBiology (Private Core Backend)
+├── 🔒 SuleimanComputationalStructuralBiology (Private Core Backend — Access by Request)
 │   ├── Raw multi-sequence alignments (MSAs) & MMseqs2 profiles
 │   ├── Unrelaxed & relaxed AlphaFold2 structure models
 │   ├── Complete PAE distance matrices & per-residue pLDDT profiles
 │   ├── AutoDock Vina receptor/ligand PDBQT preparation pipelines
 │   ├── Master's computational structural biology curriculum & tutorial data
 │   └── 48-note persistent LLM research wiki & manuscript drafts
+│   └── 📩 Request Access: suleyman.hacizade1@gmail.com
 │
 └── 🌐 SuleimanComputationalStructuralBiology.github.io (Public Interactive Portal)
     ├── 🌟 Live URL: https://suleimancomputationalstructuralbiology.github.io/
@@ -89,12 +98,12 @@ Visit our live web platform at **[suleimancomputationalstructuralbiology.github.
 
 ---
 
-## 👨‍🔬 Leadership & Affiliation
+## 👨‍🔬 Leadership, Affiliation & Data Access
 
 * **Lead Researcher:** Suleiman Hajizadeh
 * **Affiliation:** Institute of Molecular Biology (IMB), Azerbaijan
 * **Specialization:** Structural Bioinformatics, Deep-Learning Protein Modeling, Kinase Biophysics, Network Biology
-* **Email:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)
+* **Private Data & Repository Access Inquiries:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20SuleimanComputationalStructuralBiology%20Private%20Data)
 * **Personal GitHub:** [@SuleimanHajizadeh](https://github.com/SuleimanHajizadeh)
 
 ---
